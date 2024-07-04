@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a software engineer with experience in Web Development and machine learning.
+
 Currently, I’m working on a Cloud Architect Associate Certification from AWS, and I'm also planning out a full web app to test my understanding.
+
 This account is for my experiments and projects.
